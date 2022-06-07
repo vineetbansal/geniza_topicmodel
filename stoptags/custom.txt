@@ -1,0 +1,22 @@
+# Specific tags to ignore when determining most common tags for preclustering
+arabic
+arabic script
+arabic address
+arabic literary
+fgp stub
+late ja
+late heb
+illness letter 969–1517
+11th c
+12th c
+13th c
+14th c
+15th c
+16th c
+17th c
+18th c
+19th c
+20th c
+cudl
+nahray b nissim'
+
